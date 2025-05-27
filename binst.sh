@@ -1,11 +1,11 @@
 #!/bin/bash
-# Installer script for Bibata Modern Ice v. 2.0.6
+# Installer script for Bibata Modern Ice v. 2.0.7
 
 cd ~
 
 folder="Bibata-Modern-Ice"
 file="${folder}.tar.xz"
-version="2.0.6"
+version="2.0.7"
 url="https://github.com/ful1e5/Bibata_Cursor/releases/download/v$version/$file"
 icons_folder="/usr/share/icons"
 
