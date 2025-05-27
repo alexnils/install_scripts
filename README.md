@@ -6,3 +6,5 @@ These are some small scripts I created for getting sane defaults after having in
 
 `swedish_locale.sh` - When you prefer having your system in English, but your locales (the way date, time and currency is presented) in an other language.
 
+`set-cascadia-mono.sh` - Makes the default monospace font Cascadia Mono.
+
